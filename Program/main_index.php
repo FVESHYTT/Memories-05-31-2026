@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <title>Fritz♡Janelle</title>
+    <title>Fritz ♡ Janelle · Where Our Forever Begins</title>
 
     <link rel="stylesheet" href="css/main_index.css">
 </head>
@@ -15,15 +15,15 @@
     <header class="site-header">
 
         <div class="logo">
-            F♡J 
+            F♡J
         </div>
 
         <nav class="navigation">
-    <a href="#home">Home</a>
-    <a href="#story">Our Story</a>
-    <a href="#monthsaries">Our Chapters</a>
-    <a href="#letters">Letters</a>
-</nav>
+            <a href="#home">Home</a>
+            <a href="#story">Our Story</a>
+            <a href="#monthsaries">Our Chapters</a>
+            <a href="#letters">Letters</a>
+        </nav>
 
     </header>
 
@@ -37,27 +37,25 @@
             <div class="hero-content">
 
                 <p class="small-title">
-    A little place for our love
-</p>
+                    A little place for our love
+                </p>
 
-<h1>
-    Where Our Forever Begins
-</h1>
+                <h1>
+                    Where Our Forever Begins
+                </h1>
 
-<p class="hero-description">
-    Through every season, every moment,
-    and every tomorrow — it's always you.
-</p>
+                <p class="hero-description">
+                    Through every season, every moment,
+                    and every tomorrow — it's always you.
+                </p>
 
-<a href="#story" class="hero-button">
-    Begin Our Story ♡
-</a>
+                <a href="#story" class="hero-button">
+                    Begin Our Story ♡
+                </a>
 
             </div>
 
         </section>
-
-
 
 
         <!-- OUR STORY -->
@@ -78,138 +76,106 @@
         </section>
 
 
+        <!-- MONTHSARIES SECTION -->
+        <section id="monthsaries" class="monthsaries-section">
+
+            <div class="monthsaries-heading">
+
+                <p class="section-label">
+                    Our Journey
+                </p>
+
+                <h2>
+                    Our Chapters
+                </h2>
+
+                <p>
+                    Every month, another page of our forever.
+                </p>
+
+            </div>
 
 
-<!-- MONTHSARIES SECTION -->
-<section id="monthsaries" class="monthsaries-section">
+            <!-- HORIZONTAL SCROLL AREA -->
+            <div class="monthsary-scroll">
 
-   <div class="monthsaries-heading">
+                <!-- MONTH 1 -->
+                <a href="monthsary/monthsary_01.php" class="monthsary-card">
 
-    <p class="section-label">
-        Our Journey
-    </p>
+                    <div class="monthsary-number">I</div>
 
-    <h2>
-        Our Chapters
-    </h2>
+                    <div class="monthsary-card-content">
+                        <span>Chapter I</span>
+                        <h3>The Beginning</h3>
+                        <p>Where our story first began.</p>
+                    </div>
 
-    <p>
-        Every month, another page of our forever.
-    </p>
-
-</div>
+                </a>
 
 
-    <!-- HORIZONTAL SCROLL AREA -->
-    <div class="monthsary-scroll">
+                <!-- MONTH 2 -->
+                <a href="monthsary/monthsary_02.php" class="monthsary-card">
 
-       <!-- MONTH 1 -->
-<a href="monthsary/monthsary_01.php" class="monthsary-card">
+                    <div class="monthsary-number">II</div>
 
-    <div class="monthsary-number">
-        I
-    </div>
+                    <div class="monthsary-card-content">
+                        <span>Chapter II</span>
+                        <h3>Growing Us</h3>
+                        <p>Another month, another memory.</p>
+                    </div>
 
-    <div class="monthsary-card-content">
-
-        <span>Chapter I</span>
-
-        <h3>
-            The Beginning
-        </h3>
-
-        <p>
-            Where our story first began.
-        </p>
-
-    </div>
-
-</a>
+                </a>
 
 
-<!-- MONTH 2 -->
-<a href="monthsary/monthsary_02.php" class="monthsary-card">
+                <!-- MONTH 3 -->
+                <a href="monthsary/monthsary_03.php" class="monthsary-card">
 
-    <div class="monthsary-number">
-        II
-    </div>
+                    <div class="monthsary-number">III</div>
 
-    <div class="monthsary-card-content">
+                    <div class="monthsary-card-content">
+                        <span>Chapter III</span>
+                        <h3>Becoming Us</h3>
+                        <p>Growing closer with every moment.</p>
+                    </div>
 
-        <span>Chapter II</span>
-
-        <h3>
-            Growing Us
-        </h3>
-
-        <p>
-            Another month, another memory.
-        </p>
-
-    </div>
-
-</a>
+                </a>
 
 
-<!-- MONTH 3 -->
-<a href="monthsary/monthsary_03.php" class="monthsary-card">
+                <!-- MONTH 4 -->
+                <a href="monthsary/monthsary_04.php" class="monthsary-card">
 
-    <div class="monthsary-number">
-        III
-    </div>
+                    <div class="monthsary-number">IV</div>
 
-    <div class="monthsary-card-content">
+                    <div class="monthsary-card-content">
+                        <span>Chapter IV</span>
+                        <h3>Our Journey</h3>
+                        <p>Four months, countless memories. ♡</p>
+                    </div>
 
-        <span>Chapter III</span>
-
-        <h3>
-            Becoming Us
-        </h3>
-
-        <p>
-            Growing closer with every moment.
-        </p>
-
-    </div>
-
-</a>
+                </a>
 
 
-<!-- MONTH 4 -->
-<a href="monthsary/monthsary_04.php"
-   class="monthsary-card current-month">
+                <!-- MONTH 5 (current) -->
+                <a href="monthsary/monthsary_05.php"
+                   class="monthsary-card current-month">
 
-    <div class="monthsary-number">
-        IV
-    </div>
+                    <div class="monthsary-number">V</div>
 
-    <div class="monthsary-card-content">
+                    <div class="monthsary-card-content">
+                        <span>Chapter V</span>
+                        <h3>Among the Pines</h3>
+                        <p>Five months, and a cold, beautiful Baguio. ♡</p>
+                    </div>
 
-        <span>Chapter IV</span>
+                    <div class="current-badge">
+                        Our Current Chapter
+                    </div>
 
-        <h3>
-            Our Journey
-        </h3>
+                </a>
 
-        <p>
-            Four months, countless memories. ♡
-        </p>
+            </div>
 
-    </div>
-
-    <div class="current-badge">
-        Our Current Chapter
-    </div>
-
-</a>
-
-    </div>
-
-</section>
-
-
-
-
+        </section>
 
 
         <!-- LETTERS -->
@@ -242,17 +208,7 @@
     </footer>
 
 
-  <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-    <title>Our Monthsary ♡</title>
-
-    <link rel="stylesheet" href="css/main_index.css">
     <script src="scripting/main_index.js"></script>
-
-
-</head>
 
 </body>
 </html>
